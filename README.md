@@ -1,11 +1,10 @@
 ## Hi, I'm Raxx 👋
-  # [Programmer](https://github.com/raxxcarandang)
+  [Programmer](https://github.com/raxxcarandang)
 - 🔭 Currently working on ... Capstone Project & Compliance
-- 🌱 Currently learning ... Python and Data Mining & Analytics
-
-📫 Contact:
--  raxxrcarandang@gmail.com
--  +63 950 169 5335
+- 🌱 Currently learning ... Python, Data Mining & Analytics
+- 📫 Contact:
+  -  raxxrcarandang@gmail.com
+  -  +63 950 169 5335
   
 <!--
 **raxxcarandang/raxxcarandang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
