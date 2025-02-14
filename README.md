@@ -1,6 +1,6 @@
 ## Hi, I'm Raxx 👋
   [Programmer](https://github.com/raxxcarandang)
-- 🔭 Currently working on ... Capstone Project & Compliance
+- 🔭 Currently working on ... [Capstone Project](https://github.com/raxxcarandang/Cagbalete-Booking-System) & Compliance
 - 🌱 Currently learning ... Python, Data Mining & Analytics
 - 📫 Contact:
   -  raxxrcarandang@gmail.com
