@@ -1,5 +1,5 @@
 ## Hi, I'm Raxx 👋
-  [QA Automation Tester, Programmer](https://github.com/raxxcarandang)
+  [QA Automation Tester, Web Developer, Programmer](https://github.com/raxxcarandang)
 - 🔭 Currently working on ... [Capstone Project](https://maubantourism.skfilucban.com) & [Compliance](https://github.com/raxxcarandang/Cagbalete-Booking-System)
 - 🌱 Currently learning ... Azure Dev Ops, Python, Data Mining & Analytics
 - 📫 Contact:
